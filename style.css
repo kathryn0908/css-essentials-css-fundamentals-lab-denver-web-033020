@@ -18,7 +18,7 @@ p#featured-property{
   width: 800px;
 }
 
-h3,p #details{
+h3#details{
   padding: 10px;
 }
 
