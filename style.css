@@ -13,8 +13,14 @@ padding-left: 10px;
 padding-right: 10px;
 }
 
-*{text-align: center;}
-
 p#featured-property{
   margin: auto;;
-  width: 800px;}
+  width: 800px;
+}
+
+div#details{
+  display: block;
+  float: left;
+}
+
+  *{text-align: center;}
