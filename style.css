@@ -23,6 +23,7 @@ p#featured-property{
 }
 
 #details div{
+  display: block;
   float: left;
 }
 
