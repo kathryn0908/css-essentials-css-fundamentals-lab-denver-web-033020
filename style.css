@@ -18,6 +18,10 @@ p#featured-property{
   width: 800px;
 }
 
+h3,p #details{
+  float: left;
+}
+  
 #details{
   display: inline-block;
 }
