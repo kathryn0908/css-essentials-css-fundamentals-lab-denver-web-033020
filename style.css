@@ -14,4 +14,7 @@ margin-right:10px;
 }
 
 *{text-align: center;}
-p#featured-property{width:800px;}
+
+p#featured-property{
+  text-align: center;
+  width:800px;}
