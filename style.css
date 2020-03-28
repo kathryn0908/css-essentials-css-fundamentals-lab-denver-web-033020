@@ -19,7 +19,7 @@ p#featured-property{
 }
 
 h3,p #details{
-  float: left;
+  padding: 10px;
 }
 
 #details{
