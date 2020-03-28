@@ -18,18 +18,16 @@ p#featured-property{
   width: 800px;
 }
 
-h3{
-  padding-left: : 40px;
-  padding-right: 40px;
-}
 
 #details{
   display: inline-block;
-  padding: 10px;
+  float: left;
 }
 
 #details div{
   display: inline-block;
+  background-color: red;
+  width: .25
 
 }
 
