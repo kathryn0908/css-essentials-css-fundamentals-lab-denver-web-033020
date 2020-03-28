@@ -26,6 +26,7 @@ p#featured-property{
 
 #details div{
   display: inline-block;
+  box-sizing: border-box;
   width: 25%;
   float: left;
   background-color: red;
