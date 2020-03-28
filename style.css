@@ -19,11 +19,11 @@ p#featured-property{
 }
 
 #details{
-  display: block;
+  display: inline-block;
 }
 
 #details div{
-  display: block;
+  display: inline-block;
   float: left;
 }
 
