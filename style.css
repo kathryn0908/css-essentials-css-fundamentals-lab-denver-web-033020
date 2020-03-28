@@ -20,12 +20,12 @@ p#featured-property{
 
 
 #details{
-  display: inline-block;
+  display: block;
   float: left;
 }
 
 #details div{
-  display: inline-block;
+  display: block;
   box-sizing: border-box;
   width: 25%;
   float: left;
