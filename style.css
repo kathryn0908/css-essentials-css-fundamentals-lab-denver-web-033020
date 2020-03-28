@@ -22,7 +22,7 @@ p#featured-property{
   display: block;
 }
 
-div#details{
+#details div{
   float: left;
 }
 
